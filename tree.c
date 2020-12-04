@@ -19,6 +19,6 @@ int main(){
             printf(" ");
         }
         printf("**\n");
-        printf("komentarz ambitny bardzo");
+        printf("komentarz ambitny bardzoooo");
     return 0;
 }
