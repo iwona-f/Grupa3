@@ -18,6 +18,7 @@ int main(){
         for(z=0;z<(row-1);z++){
             printf(" ");
         }
-        printf("**");
+        printf("**\n");
+        printf("komentarz");
     return 0;
 }
